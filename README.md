@@ -55,5 +55,3 @@ El modelo entrenado (`nba_draft_model.pkl`) se crea utilizando un dataset de pro
 - Agrega más características como estadísticas de los jugadores, rendimiento universitario o resultados de combinaciones físicas.
 - Mejora el modelo experimentando con diferentes algoritmos o hiperparámetros.
 
-## Licencia
-Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
